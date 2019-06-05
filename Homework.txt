@@ -3,4 +3,5 @@
 3. Yellow 
 4. Green 
 5. Blue 
-6. violet
+6. Indigo
+7. Violet
